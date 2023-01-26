@@ -1,0 +1,15 @@
+body {
+    /* font-family: 'Vendetta OT'; */
+    font-family: "ltc-kennerley", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20pt;
+ }
+.container {
+    display: block; margin: auto; width: 700px;
+ }
+.sep {
+    text-align: center;
+ }
+
+
