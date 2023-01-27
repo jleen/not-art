@@ -2,6 +2,8 @@ import dryck
 import shutil
 
 class GptContext(dryck.HtmlContext):
+    replace = {'§': '◊sep'}
+
     def sep(self):
         return '<p class="sep">✼</p>'
 
