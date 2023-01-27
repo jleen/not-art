@@ -8,7 +8,7 @@ category = "main"
 optional = false
 python-versions = "^3.8"
 files = []
-develop = false
+develop = true
 
 [package.dependencies]
 marko = "^1.0.2"
@@ -91,4 +91,4 @@ watchmedo = ["PyYAML (>=3.10)"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.11"
-content-hash = "9db1d1a7a34159194886a938ba1284ccb9726481b3c9c64c76ca2b905f2efa23"
+content-hash = "ee7623f84b72ce078eb69c5671f38034b467ab772986f6bc2fc2aadfdad9e000"

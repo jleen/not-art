@@ -7,7 +7,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
-dryck = {path = "../appeldryck"}
+dryck = {path = "../appeldryck", develop=true}
 
 
 [build-system]
